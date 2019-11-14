@@ -1,0 +1,2 @@
+# SkullBot
+A Discord Bot
