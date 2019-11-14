@@ -1,0 +1,25 @@
+{
+  "name": "skullbot",
+  "version": "1.0.0",
+  "description": "A Discord Bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derDere/SkullBot.git"
+  },
+  "keywords": [
+    "skull",
+    "bot",
+    "skullbot",
+    "discord"
+  ],
+  "author": "Phillip Deremer",
+  "license": "GNU v3",
+  "bugs": {
+    "url": "https://github.com/derDere/SkullBot/issues"
+  },
+  "homepage": "https://github.com/derDere/SkullBot#readme"
+}
