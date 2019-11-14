@@ -4,7 +4,7 @@
   "description": "A Discord Bot",
   "main": "main.js",
   "scripts": {
-    "test": "node ."
+    "start": "node ."
   },
   "repository": {
     "type": "git",
