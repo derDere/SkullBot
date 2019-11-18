@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/derDere/SkullBot/issues"
   },
-  "homepage": "https://github.com/derDere/SkullBot#readme"
+  "homepage": "https://github.com/derDere/SkullBot#readme",
+  "dependencies": {
+    "commander": "^4.0.1",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "shlex": "^2.0.1"
+  }
 }
